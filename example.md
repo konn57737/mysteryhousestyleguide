@@ -659,7 +659,7 @@
 >
 >**`**[&nbsp;PANTRY&nbsp;]**`**  
 >**`**YOU ARE IN A SMALL PANTRY.`  
->`--------------- ENTER COMMAND? <ins>EXIT HOLE</ins>**`**  
+>`--------------- ENTER COMMAND? <ins>ENTER HOLE</ins>**`**  
 >
 >**`####`**  
 >
