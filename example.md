@@ -471,8 +471,8 @@
 >**`####`**  
 >
 >**`**[&nbsp;PANTRY&nbsp;]**`**  
->**`**YOU ARE IN A SMALL PANTRY.`
->>`--------------- ENTER COMMAND? <ins>TAKE JAR</ins>`  
+>**`**YOU ARE IN A SMALL PANTRY.`  
+>`--------------- ENTER COMMAND? <ins>TAKE JAR</ins>`  
 >`IT DOES NOT REMOVE.`  
 >`--------------- ENTER COMMAND? <ins>ENTER HOLE</ins>`  
 >`YOU GO IN THE HOLE BUT CANNOT CONTINUE AND HAVE TO RETURN.`  
